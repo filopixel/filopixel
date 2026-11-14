@@ -1,5 +1,7 @@
 # Filippo Carboni
 
+### 🌐 [filippocarboni.dev](https://filippocarboni.dev) - what I'm working on, building and reading right now
+
 Software engineer and team lead in Rome. I own products end to end: from talking to clients and designing the product to architecture, backend, frontend and infrastructure, plus firmware and mobile when the product needs it.
 
 - **Now:** team lead on Wanda, a zero-trust access platform in Go, at Adamantic
@@ -19,4 +21,6 @@ Software engineer and team lead in Rome. I own products end to end: from talking
 - [**HouseKeyper**](https://github.com/filopixel/mcp-wrapper) - "sudo for AI agents": an approval gateway for MCP servers that gates sensitive tool calls behind on-device, P-256-signed push approvals. Built at HackRome 2026. Go, SwiftUI.
 - [**DogWatch**](https://github.com/filopixel/dogwatch) - a Home Assistant add-on that detects a dog's bark from a camera stream, in real time, on a Raspberry Pi. Go, Python.
 
-More on [filippocarboni.dev](https://filippocarboni.dev) · [LinkedIn](https://linkedin.com/in/filopixel)
+## More
+
+Everything else lives on **[filippocarboni.dev](https://filippocarboni.dev)**: [work](https://filippocarboni.dev/work), [projects](https://filippocarboni.dev/projects) and the [bookshelf](https://filippocarboni.dev/shelf). Also on [LinkedIn](https://linkedin.com/in/filopixel).
