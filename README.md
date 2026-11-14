@@ -5,7 +5,7 @@
 Software engineer and team lead in Rome. I own products end to end: from talking to clients and designing the product to architecture, backend, frontend and infrastructure, plus firmware and mobile when the product needs it.
 
 - **Now:** team lead on Wanda, a zero-trust access platform in Go, at Adamantic
-- **Before:** an IoT telemetry product running on about 2,000 machines worldwide, and an EV charging and vehicle sharing platform that grew to 10k+ users
+- **Before:** an IoT telemetry product deployed on about 2,000 machines worldwide, and an EV charging and vehicle sharing platform that grew to 10k+ users
 - **On the side:** I design, build and publish my own apps
 
 ## Apps
