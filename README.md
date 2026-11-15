@@ -18,7 +18,6 @@ Software engineer and team lead in Rome. I own products end to end: from talking
 
 ## Open source
 
-- [**HouseKeyper**](https://github.com/filopixel/mcp-wrapper) - "sudo for AI agents": an approval gateway for MCP servers that gates sensitive tool calls behind on-device, P-256-signed push approvals. Built at HackRome 2026. Go, SwiftUI.
 - [**DogWatch**](https://github.com/filopixel/dogwatch) - a Home Assistant add-on that detects a dog's bark from a camera stream, in real time, on a Raspberry Pi. Go, Python.
 
 ## More
